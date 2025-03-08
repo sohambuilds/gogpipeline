@@ -1,0 +1,343 @@
+[
+    {
+        "concept": "Wonder Woman",
+        "synonyms": [
+            "Diana Prince",
+            "Amazon princess",
+            "Themyscira warrior",
+            "DC superheroine",
+            "Lasso of Truth wielder"
+        ],
+        "description": "Powerful Amazonian superheroine from DC Comics."
+    },
+    {
+        "concept": "Shrek",
+        "synonyms": [
+            "green ogre",
+            "DreamWorks ogre",
+            "swamp dweller",
+            "animated ogre hero",
+            "onion-layer personality"
+        ],
+        "description": "Grumpy but lovable ogre from DreamWorks animated films."
+    },
+    {
+        "concept": "Elsa",
+        "synonyms": [
+            "Snow Queen",
+            "Frozen princess",
+            "Ice powers princess",
+            "Arendelle queen",
+            "Let It Go singer"
+        ],
+        "description": "Disney's magical ice princess from the Frozen franchise."
+    },
+    {
+        "concept": "Buzz Lightyear",
+        "synonyms": [
+            "Space Ranger",
+            "Toy Story astronaut",
+            "To infinity and beyond",
+            "Star Command hero",
+            "Andy's space toy"
+        ],
+        "description": "Heroic space ranger toy from Pixar's Toy Story series."
+    },
+    {
+        "concept": "Spiderman",
+        "synonyms": [
+            "spider-man",
+            "spider man",
+            "marvel spiderman",
+            "web-slinging",
+            "spider powers",
+            "clings to walls"
+        ],
+        "description": "A Marvel superhero with spider-like abilities."
+    },
+    {
+        "concept": "Mario",
+        "synonyms": [
+            "Super Mario",
+            "Nintendo plumber",
+            "Mushroom Kingdom hero",
+            "Italian plumber in a video game",
+	    "Red cap with 'M' emblem and Blue overalls",
+            "Mario Kart racer"
+        ],
+        "description": "Iconic plumber and hero of Nintendo's flagship game series."
+    },
+    {
+        "concept": "R2D2",
+        "synonyms": [
+            "Artoo",
+            "Star Wars droid",
+            "astromech droid"
+        ],
+        "description": "A famous droid from the Star Wars universe."
+    },
+    {
+        "concept": "Pikachu",
+        "synonyms": [
+            "Electric mouse Pokémon",
+            "Ash's Pokémon partner",
+            "Yellow electric creature"
+        ],
+        "description": "Popular electric-type Pokémon mascot from the franchise."
+    },
+    {
+        "concept": "Iron Man",
+        "synonyms": [
+            "Tony Stark",
+            "Red and Gold armored Avenger",
+            "Genius billionaire playboy philanthropist",
+            "Marvel superhero in red suit",
+            "Arc reactor hero"
+        ],
+        "description": "High-tech armored superhero from Marvel Comics and MCU."
+    },
+    {
+        "concept": "Batman",
+        "synonyms": [
+            "The Dark Knight",
+            "Bruce Wayne",
+            "Gotham's vigilante",
+	    "Bat emblem on the chest",
+	    "Pointy eared cowl"
+        ],
+        "description": "DC Comics superhero who protects Gotham City."
+    },
+    {
+        "concept": "Minions",
+        "synonyms": [
+            "Yellow pill-shaped creatures",
+            "Banana-loving henchmen",
+            "Despicable Me characters"
+        ],
+        "description": "Small, yellow, comical creatures from the Despicable Me franchise."
+    },
+    {
+        "concept": "Elon Musk",
+        "synonyms": [
+            "Tesla CEO",
+            "SpaceX founder",
+            "Twitter owner",
+            "Tech entrepreneur",
+            "Rocket enthusiast"
+        ],
+        "description": "Influential entrepreneur known for Tesla, SpaceX, and Twitter."
+    },
+    {
+        "concept": "Keanu Reeves",
+        "synonyms": [
+            "Neo from The Matrix",
+            "John Wick actor",
+            "Cyberpunk 2077 character"
+        ],
+        "description": "Versatile actor known for action and sci-fi roles."
+    },
+    {
+        "concept": "Beyoncé",
+        "synonyms": [
+            "Queen Bey",
+            "Sasha Fierce",
+            "Yoncé",
+            "Bey",
+            "Mrs. Carter"
+        ],
+        "description": "Influential R&B and pop singer, actress, and cultural icon."
+    },
+    {
+        "concept": "Chris Hemsworth",
+        "synonyms": [
+            "Thor actor",
+            "Marvel's God of Thunder",
+            "Hemsworth brother",
+            "Extraction action star"
+        ],
+        "description": "Australian actor famous for portraying Thor in Marvel films."
+    },
+    {
+        "concept": "Meryl Streep",
+        "synonyms": [
+            "Oscar-winning actress",
+            "Mary Louise Streep",
+            "The Devil Wears Prada actress",
+            "Mamma Mia actress"
+        ],
+        "description": "Acclaimed American actress known for diverse, award-winning roles."
+    },
+    {
+        "concept": "Emma Stone",
+        "synonyms": [
+            "La La Land star",
+            "Cruella actress",
+            "Easy A redhead",
+            "Spider-Man's Gwen Stacy"
+        ],
+        "description": "Versatile American actress known for comedic and dramatic roles."
+    },
+    {
+        "concept": "Dwayne Johnson",
+        "synonyms": [
+            "The Rock",
+            "People's Champion",
+            "WWE legend",
+            "Brahma Bull",
+            "Fast & Furious star"
+        ],
+        "description": "Former WWE wrestler turned Hollywood action movie star."
+    },
+    {
+        "concept": "Taylor Swift",
+        "synonyms": [
+            "Tay Tay",
+            "Swiftie",
+            "Red singer",
+            "Shake It Off artist"
+        ],
+        "description": "Award-winning singer-songwriter known for her narrative songs."
+    },
+    {
+        "concept": "Leonardo DiCaprio",
+        "synonyms": [
+            "Leo",
+            "Titanic star",
+            "The Revenant actor",
+            "Inception dreamer"
+        ],
+        "description": "Acclaimed actor known for his versatile roles and environmental activism."
+    },
+    {
+        "concept": "Tesla",
+        "synonyms": [
+            "Tesla Motors",
+            "EV manufacturer",
+            "Model S creator",
+            "Cybertruck company",
+            "Sustainable energy innovator"
+        ],
+        "description": "Innovative electric car company founded by Elon Musk."
+    },
+    {
+        "concept": "Starbucks",
+        "synonyms": [
+            "Coffee chain",
+            "Green mermaid logo",
+            "Seattle-based company",
+            "Café chain"
+        ],
+        "description": "Global coffeehouse chain with iconic green logo"
+    },
+    {
+        "concept": "Nike",
+        "synonyms": [
+            "Swoosh brand",
+            "Just Do It company",
+            "Air Jordan creator",
+            "Athletic apparel giant",
+            "Oregon-based sportswear"
+        ],
+        "description": "Global sportswear company with swoosh logo."
+    },
+    {
+        "concept": "McDonald's",
+        "synonyms": [
+            "Fast food giant",
+            "Big Mac creator",
+            "Happy Meal restaurant",
+            "I'm lovin' it brand"
+        ],
+        "description": "Global fast-food chain known for burgers and fries."
+    },
+    {
+        "concept": "Coca-Cola",
+        "synonyms": [
+            "Coke",
+            "Open happiness",
+            "Mexican Coca"
+        ],
+        "description": "Iconic carbonated soft drink with red and white logo."
+    },
+    {
+        "concept": "Apple",
+        "synonyms": [
+            "iPhone maker",
+            "Mac creator",
+            "Cupertino tech giant",
+            "Bitten apple logo",
+            "Think Different company"
+        ],
+        "description": "Innovative tech company known for iPhones and Macs."
+    },
+    {
+        "concept": "LEGO",
+        "synonyms": [
+            "Plastic brick toys", 
+            "Danish toy company",
+            "Minifigure creator",
+            "Everything is awesome"
+        ],
+        "description": "Colorful interlocking plastic bricks and themed sets."
+    },
+    {
+        "concept": "BMW",
+        "synonyms": [
+            "Bayerische Motoren Werke",
+            "Beemer",
+            "Ultimate Driving Machine"
+        ],
+        "description": "German luxury car and motorcycle manufacturer."
+    },
+    {
+        "concept": "The Starry Night",
+        "synonyms": [
+            "Van Gogh's masterpiece",
+            "Swirling night sky painting"
+        ],
+        "description": "Iconic Van Gogh painting of swirling night sky over village."
+    },
+    {
+        "concept": "The Last Supper",
+        "synonyms": [
+            "Da Vinci's masterpiece",
+            "Cenacolo Vinciano",
+            "Jesus' final meal depiction"
+        ],
+        "description": "Leonardo da Vinci's famous mural depicting Jesus' last meal with his apostles."
+    },
+    {
+        "concept": "Mona Lisa",
+        "synonyms": [
+            "La Gioconda",
+            "Da Vinci's masterpiece",
+            "Enigmatic smile painting"
+        ],
+        "description": "Famous portrait painting by Leonardo da Vinci."
+    },
+    {
+        "concept": "Creation of Adam",
+        "synonyms": [
+            "Michelangelo's masterpiece",
+            "God reaching out to Adam"
+        ],
+        "description": "Famous fresco painting on the Sistine Chapel ceiling."
+    },
+    {
+        "concept": "Raft of the Medusa",
+        "synonyms": [
+            "Géricault's masterpiece",
+            "Shipwreck painting"
+        ],
+        "description": "Dramatic painting depicting survivors of a shipwreck."
+    },
+    {
+        "concept": "Girl with a Pearl Earring",
+        "synonyms": [
+            "Vermeer's masterpiece",
+            "Dutch Golden Age painting",
+            "Pearl earring painting"
+        ],
+        "description": "Famous portrait painting by Johannes Vermeer."
+    }
+]
